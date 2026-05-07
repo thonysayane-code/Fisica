@@ -1,3 +1,5 @@
+ // esse código serve para compiladores onlines.
+
 import java.util.Scanner; // Importa a classe Scanner para entrada de dados pelo teclado
 
 public class Main {
