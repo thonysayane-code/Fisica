@@ -1,3 +1,5 @@
+ // esse código serve para o VS code, que irá abrir a interface em java.
+
 import javax.swing.*; // Importa a biblioteca Swing para criar interface gráfica
 
 public class CalculadoraAtrito {
